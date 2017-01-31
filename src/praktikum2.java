@@ -193,8 +193,8 @@ public class praktikum2 extends javax.swing.JFrame {
             jtxtjml.setText("15 Siswa");
             jtxtwaktu.setText("13.00 - 16.00");
             jtxtjadwal.setText("Selas - Rabu");
-            jtxtsarana.setText("Bank Soal + Materi + Kumpulan Rumus");
-            jtxtfasilitas.setText("AC, Kursi, TV, Ptoyektor, PC");
+            jtxtsarana.setText("AC, Kursi, TV, Ptoyektor, PC");
+            jtxtfasilitas.setText("Bank Soal + Materi + Kumpulan Rumus");
             jtxtbiaya.setText("Rp. 4.000.000");}
         else if(jcbim.getSelectedItem().equals("Platinum")){
             jtxtruang.setText("Kelas Arjuna");
