@@ -28,7 +28,7 @@
 ![6.jpg](https://s29.postimg.org/ji6tjs23b/image.jpg)
 
 - Penjelasan:
-Nilai bilangan (1-10) disimpan pada int DataArray. Pada awal program dijalankan, 
+Nilai bilangan (0-9) disimpan pada int DataArray. Pada awal program dijalankan, 
 terdapat input dialog yang akan diinputkan bilangan yang ingin dicari, 
 setelah itu nilai yang sudah dimasukkan disimpan dalam variabel NilaiX, 
 lalu program akan menjalankan looping untuk mencari bilangan, 
